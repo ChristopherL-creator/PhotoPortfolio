@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=Montserrat:ital,wght@0,200;0,700;1,200&family=Press+Start+2P&display=swap'); 
+
+html,body{ 
+    margin:0px; 
+    padding: 0px; 
+    text-align: center; 
+    background-color: #fefefe; 
+    font-family: 'Cardo', 'Serif';
+}
+
+.logo-img{ 
+    max-width: 100px
+} 
+
+.nav-link{ 
+    color: black; 
+    text-decoration: none; 
+    margin-left: 16px; 
+    margin-right: 16px; 
+    font-size: small;
+} 
+
+.pagetitle{ 
+    font-size: medium; 
+} 
+
+.pagecontainer{ 
+    padding: 32px;
+} 
+
+.footer{ 
+    background-color: #f3ebe6; 
+    height: 300px; 
+} 
+
+.border{ 
+    border-style: solid;
+} 
+
+.footercontacts{ 
+    display: inline-block; 
+    width: 20%; 
+    text-align: left; 
+    padding: 16px; 
+    box-sizing: border-box;
+} 
+
+.footercontactstitle{ 
+    text-align: left;
+} 
+
+.footercontactstext{ 
+    text-align: left; 
+    font-size: x-small; 
+
+} 
+
+.footernav{ 
+    display: inline-block; 
+    width: 58%;
+} 
+
+.footercopyright{ 
+    display: inline-block; 
+    width: 20%; 
+    text-align: right; 
+    padding: 16px; 
+    box-sizing: border-box;
+} 
+
+.footercopyrighttitle{ 
+    text-align: right; 
+}  
+
+.footercopyrighttext{ 
+    text-align: right; 
+    font-size: x-small; 
+}
